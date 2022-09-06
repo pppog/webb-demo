@@ -157,3 +157,8 @@ body {
 h1 {
   font-size: var(--step-5);
 }
+
+.d-flex {
+  display: flex;
+  justify-content: center;
+}
